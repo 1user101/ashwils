@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+        { "source": "/new2.html", "destination": "/new2.html" },
+      { "source": "/(.*)", "destination": "/" }
+      
+    ]
+  }
